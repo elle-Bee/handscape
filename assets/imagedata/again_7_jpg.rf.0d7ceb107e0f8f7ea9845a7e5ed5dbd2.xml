@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>again_7_jpg.rf.0d7ceb107e0f8f7ea9845a7e5ed5dbd2.jpg</filename>
+	<path>C:\Users\elleBee\Downloads\train\again_7_jpg.rf.0d7ceb107e0f8f7ea9845a7e5ed5dbd2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>again</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1053</xmin>
+			<ymin>559</ymin>
+			<xmax>1348</xmax>
+			<ymax>871</ymax>
+		</bndbox>
+	</object>
+</annotation>

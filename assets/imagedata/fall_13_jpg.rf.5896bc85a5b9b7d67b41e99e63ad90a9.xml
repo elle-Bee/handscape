@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>fall_13_jpg.rf.5896bc85a5b9b7d67b41e99e63ad90a9.jpg</filename>
+	<path>C:\Users\elleBee\Downloads\train\fall_13_jpg.rf.5896bc85a5b9b7d67b41e99e63ad90a9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>918</xmin>
+			<ymin>523</ymin>
+			<xmax>1267</xmax>
+			<ymax>1089</ymax>
+		</bndbox>
+	</object>
+</annotation>
