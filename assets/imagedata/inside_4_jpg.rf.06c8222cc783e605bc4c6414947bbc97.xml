@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>inside_4_jpg.rf.06c8222cc783e605bc4c6414947bbc97.jpg</filename>
+	<path>C:\Users\elleBee\Downloads\train\inside_4_jpg.rf.06c8222cc783e605bc4c6414947bbc97.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inside</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>961</xmin>
+			<ymin>647</ymin>
+			<xmax>1388</xmax>
+			<ymax>1095</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>head1_18_jpg.rf.94473b375290865e0d127dea02cd2004.jpg</filename>
+	<path>C:\Users\elleBee\Downloads\train\head1_18_jpg.rf.94473b375290865e0d127dea02cd2004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>191</ymin>
+			<xmax>1073</xmax>
+			<ymax>729</ymax>
+		</bndbox>
+	</object>
+</annotation>
