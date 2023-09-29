@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>yes_8_jpg.rf.cfcba8cde3f5c77c4dec9fadef442d30.jpg</filename>
+	<path>C:\Users\elleBee\Downloads\train\yes_8_jpg.rf.cfcba8cde3f5c77c4dec9fadef442d30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>663</xmin>
+			<ymin>310</ymin>
+			<xmax>1074</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>
