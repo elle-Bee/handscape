@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>when_6_jpg.rf.37d58af51baeed2420f41ed8d7856537.jpg</filename>
+	<path>C:\Users\elleBee\Downloads\train\when_6_jpg.rf.37d58af51baeed2420f41ed8d7856537.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>when</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>969</xmin>
+			<ymin>795</ymin>
+			<xmax>1378</xmax>
+			<ymax>1208</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>surgery_30_jpg.rf.f0503e9ee3d44f142af00cf5454b60b4.jpg</filename>
+	<path>C:\Users\elleBee\Downloads\train\surgery_30_jpg.rf.f0503e9ee3d44f142af00cf5454b60b4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surgery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>956</xmin>
+			<ymin>758</ymin>
+			<xmax>1534</xmax>
+			<ymax>1191</ymax>
+		</bndbox>
+	</object>
+</annotation>

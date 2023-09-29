@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>today_16_jpg.rf.926bf0718d10f3d49d4adf96f922709e.jpg</filename>
+	<path>C:\Users\elleBee\Downloads\train\today_16_jpg.rf.926bf0718d10f3d49d4adf96f922709e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>today</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>804</xmin>
+			<ymin>954</ymin>
+			<xmax>1542</xmax>
+			<ymax>1280</ymax>
+		</bndbox>
+	</object>
+</annotation>
