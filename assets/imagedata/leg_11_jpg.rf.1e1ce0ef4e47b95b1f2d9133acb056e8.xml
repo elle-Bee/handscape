@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>leg_11_jpg.rf.1e1ce0ef4e47b95b1f2d9133acb056e8.jpg</filename>
+	<path>C:\Users\elleBee\Downloads\train\leg_11_jpg.rf.1e1ce0ef4e47b95b1f2d9133acb056e8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1087</xmin>
+			<ymin>497</ymin>
+			<xmax>1476</xmax>
+			<ymax>933</ymax>
+		</bndbox>
+	</object>
+</annotation>

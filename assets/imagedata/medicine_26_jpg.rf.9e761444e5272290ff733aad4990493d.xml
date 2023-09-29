@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>medicine_26_jpg.rf.9e761444e5272290ff733aad4990493d.jpg</filename>
+	<path>C:\Users\elleBee\Downloads\train\medicine_26_jpg.rf.9e761444e5272290ff733aad4990493d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>medicine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>913</xmin>
+			<ymin>790</ymin>
+			<xmax>1354</xmax>
+			<ymax>1204</ymax>
+		</bndbox>
+	</object>
+</annotation>

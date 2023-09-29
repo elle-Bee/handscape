@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>no_8_jpg.rf.c3d430a12de30e74c4fbe9d55a5e711a.jpg</filename>
+	<path>C:\Users\elleBee\Downloads\train\no_8_jpg.rf.c3d430a12de30e74c4fbe9d55a5e711a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>802</xmin>
+			<ymin>1022</ymin>
+			<xmax>1566</xmax>
+			<ymax>1304</ymax>
+		</bndbox>
+	</object>
+</annotation>
