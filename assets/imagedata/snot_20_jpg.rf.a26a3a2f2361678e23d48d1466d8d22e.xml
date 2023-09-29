@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>snot_20_jpg.rf.a26a3a2f2361678e23d48d1466d8d22e.jpg</filename>
+	<path>C:\Users\elleBee\Downloads\train\snot_20_jpg.rf.a26a3a2f2361678e23d48d1466d8d22e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>971</xmin>
+			<ymin>496</ymin>
+			<xmax>1222</xmax>
+			<ymax>1059</ymax>
+		</bndbox>
+	</object>
+</annotation>

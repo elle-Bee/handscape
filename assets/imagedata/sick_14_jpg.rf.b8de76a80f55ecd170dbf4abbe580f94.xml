@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>sick_14_jpg.rf.b8de76a80f55ecd170dbf4abbe580f94.jpg</filename>
+	<path>C:\Users\elleBee\Downloads\train\sick_14_jpg.rf.b8de76a80f55ecd170dbf4abbe580f94.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>784</xmin>
+			<ymin>854</ymin>
+			<xmax>1035</xmax>
+			<ymax>1135</ymax>
+		</bndbox>
+	</object>
+</annotation>
