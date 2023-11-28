@@ -1,0 +1,11 @@
+name: ci
+
+on:
+  pull_request:
+  push:
+    branches:
+      - "master"
+
+jobs:
+  ci:
+    uses: elle-Bee/handscape/.github/workflows/build.yaml@master
