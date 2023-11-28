@@ -8,4 +8,4 @@ on:
 
 jobs:
   ci:
-    uses: elle-Bee/handscape/.github/workflows/build.yaml@master
+    uses: elle-Bee/handscape/.github/workflows/build.yaml@main
