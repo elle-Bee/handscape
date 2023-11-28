@@ -8,4 +8,8 @@ on:
 
 jobs:
   ci:
-    uses: elle-Bee/handscape/.github/workflows/build.yaml@master
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Build Workflow
+        uses: elle-Bee/handscape/.github/workflows/build.yaml@main
