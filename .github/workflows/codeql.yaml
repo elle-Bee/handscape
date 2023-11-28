@@ -4,7 +4,6 @@ on:
   push:
     branches: [ "master" ]
   pull_request:
-
     branches: [ "master" ]
 
 jobs:
@@ -22,7 +21,6 @@ jobs:
       matrix:
         language: [ 'python' ]
 
-
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
@@ -33,8 +31,6 @@ jobs:
       with:
         languages: ${{ matrix.language }}
 
-
-
     # Autobuild attempts to build any compiled languages (C/C++, C#, Go, Java, or Swift).
     - name: Autobuild
       uses: github/codeql-action/autobuild@v2
@@ -42,4 +38,5 @@ jobs:
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v2
       with:
-        category: "/language:${{matrix.language}}"
+        category: "/language:${{ matrix.language }}"
+
