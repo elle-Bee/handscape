@@ -1,6 +1,4 @@
 # Core dependencies
-uuid
-time
-opencv-python-headless
+opencv-python-headless==*
 
 
