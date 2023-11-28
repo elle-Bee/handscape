@@ -1,0 +1,6 @@
+# Core dependencies
+uuid
+time
+opencv-python-headless
+
+
