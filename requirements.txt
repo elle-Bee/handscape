@@ -1,4 +1,4 @@
 # Core dependencies
-opencv-python-headless==*
+opencv-python-headless
 
 
