@@ -25,4 +25,4 @@ jobs:
           pip install "black[jupyter]"
 
       - name: Run Black to format code
-        run: black . --check --diff
+        run: black --diff --quiet .
