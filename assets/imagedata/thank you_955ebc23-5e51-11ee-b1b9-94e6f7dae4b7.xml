@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thank you</folder>
+	<filename>thank you_955ebc23-5e51-11ee-b1b9-94e6f7dae4b7.jpg</filename>
+	<path>C:\Users\Kanishk Singhal\OneDrive\Desktop\Assets\imagedata\thank you\thank you_955ebc23-5e51-11ee-b1b9-94e6f7dae4b7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thank you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>508</ymin>
+			<xmax>736</xmax>
+			<ymax>708</ymax>
+		</bndbox>
+	</object>
+</annotation>

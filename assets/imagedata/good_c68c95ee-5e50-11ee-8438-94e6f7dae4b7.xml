@@ -1,0 +1,26 @@
+<annotation>
+	<folder>good</folder>
+	<filename>good_c68c95ee-5e50-11ee-8438-94e6f7dae4b7.jpg</filename>
+	<path>C:\Users\Kanishk Singhal\OneDrive\Desktop\Assets\imagedata\good\good_c68c95ee-5e50-11ee-8438-94e6f7dae4b7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>302</ymin>
+			<xmax>991</xmax>
+			<ymax>714</ymax>
+		</bndbox>
+	</object>
+</annotation>

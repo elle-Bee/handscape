@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lips</folder>
+	<filename>lips_6f4e26bd-5e50-11ee-904f-94e6f7dae4b7.jpg</filename>
+	<path>C:\Users\Kanishk Singhal\OneDrive\Desktop\Assets\imagedata\lips\lips_6f4e26bd-5e50-11ee-904f-94e6f7dae4b7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>398</ymin>
+			<xmax>975</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+</annotation>

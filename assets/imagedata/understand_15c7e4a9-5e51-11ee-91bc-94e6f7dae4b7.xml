@@ -1,0 +1,26 @@
+<annotation>
+	<folder>understand</folder>
+	<filename>understand_15c7e4a9-5e51-11ee-91bc-94e6f7dae4b7.jpg</filename>
+	<path>C:\Users\Kanishk Singhal\OneDrive\Desktop\Assets\imagedata\understand\understand_15c7e4a9-5e51-11ee-91bc-94e6f7dae4b7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>understand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>333</ymin>
+			<xmax>641</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+</annotation>

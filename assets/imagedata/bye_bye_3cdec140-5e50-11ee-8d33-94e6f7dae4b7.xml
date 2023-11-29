@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bye</folder>
+	<filename>bye_bye_3cdec140-5e50-11ee-8d33-94e6f7dae4b7.jpg</filename>
+	<path>C:\Users\Kanishk Singhal\OneDrive\Desktop\Assets\imagedata\bye\bye_bye_3cdec140-5e50-11ee-8d33-94e6f7dae4b7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>386</ymin>
+			<xmax>633</xmax>
+			<ymax>683</ymax>
+		</bndbox>
+	</object>
+</annotation>
