@@ -8,7 +8,7 @@ if not os.path.exists(DATA_DIR):
 words = []
 
 while True:
-    user_input = input("Enter a number or string (-1 to stop): ")
+    user_input = input("Enter the labels you want to create: (-1 to stop): ")
     if user_input == '-1':
         break
     words.append(user_input)
